@@ -39,6 +39,7 @@
       <td>
         <img
           align="left"
+          width="350"
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=taynanhott&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
           alt="Github Stats"
         />
@@ -47,6 +48,7 @@
         <br />
         <img
           align="left"
+          width="350"
           src="https://github-readme-streak-stats.herokuapp.com/?user=taynanhott&theme=dark&hide_border=false"
           alt="Github Stats"
         />
