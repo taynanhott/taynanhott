@@ -1,18 +1,18 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 &nbsp&nbsp
 <p align="left" class="teste"> 
-  Olá! Sou Taynan Z. Hott, desenvolvedor especializado na criação de soluções web escaláveis, com um foco constante em performance e usabilidade. Tenho vasta experiência em <strong>PHP (Laravel)</strong> e <strong>JavaScript (Node.js, React, Next.js, TypeScript)</strong>, e sou conhecido pela habilidade em resolver desafios complexos e aprimorar processos, sempre com o objetivo de alcançar máxima eficiência e promover a inovação
+  Hello! I'm Taynan Z. Hott, a developer specializing in creating scalable web solutions with a constant focus on performance and usability. I have extensive experience in <strong>PHP (Laravel)</strong> and <strong>JavaScript (Node.js, React, Next.js, TypeScript)</strong>, and I am known for my ability to tackle complex challenges and improve processes, always aiming for maximum efficiency and driving innovation.
 </p>
 
 <p align="left">
-  <p align="left" style="display:block">📔 Linguagens:</p>
+  <p align="left" style="display:block">📔 Programming Languages:</p>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
 </p>
 
 <p align="left">
-  <p align="left" style="display:block">💼 Ferramentas:</p>
+  <p align="left" style="display:block">💼 Technologies:</p>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Nodejs"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
@@ -21,7 +21,7 @@
 </p>
 
 <p align="left">
-  📩 Entre em contato comigo através dos meus meios de comunicação a seguir: ⤵️
+  📩 Contact me through the following communication channels: ⤵️
 </p>
 
 <p align="left">
